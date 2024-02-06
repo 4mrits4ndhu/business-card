@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="my_phone_number">+1 (825) 882 5200</string>
+    <string name="linkedin_handle">Guramrit Sandhu</string>
+    <string name="my_email">g.sandhu925@mybvc.ca</string>
+    <string name="my_name">Guramrit Sandhu</string>
+    <string name="my_title">Software Development Student</string>
+</resources>
